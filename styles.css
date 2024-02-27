@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+.balls{
+	height:100px;
+	width:100px;
+	border-radius:50%;
+	display:inline-block;
+	position:relative;
+	top:50px;
+}
+
+#box{
+	width:500px;
+	height:200px;
+	background-color:lightgray;
+	border:5px solid black;
+	border-radius:50px;
+	text-align:center;
+	
+}
+#green{
+	background-color:green;
+	
+	
+}
+#yellow{
+	background-color:yellow;
+	
+	
+}
+#red{
+	background-color:red;
+	
+}
